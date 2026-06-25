@@ -8,5 +8,5 @@
 - 可追溯
 - 公益
 
-[GitHub](//github.com/oc99top/bj.oc99.top)
+[部落列表](blog/list)
 [进入主页](#main)
