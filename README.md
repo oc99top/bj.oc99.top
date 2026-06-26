@@ -1,6 +1,11 @@
 # 病娇管理局-文档 :id=main
 
->以下为填充的字，不用管，凑字数用的
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fbj.oc99.top)
+![GitHub last commit](https://img.shields.io/github/last-commit/oc99top/bj.oc99.top) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/oc99top/bj.oc99.top)
+
+
+
+>以下为填充的字，不用管，凑字数用的【AI生成的】
 
 # 病娇管理局（The Yandere Bureau）——欢迎来到永恒的爱之领地
 
